@@ -1,0 +1,55 @@
+{
+    "timestamp": "2025-02-05T20:38:36.468223-05:00",
+    "rewards": [
+        {
+            "program": "Flexible Points Travel Program",
+            "conversion_rate": "1,000 points = $10",
+            "description": "Pay for flights, hotels and car rentals with American Express\u00ae Travel the way you want \u2013 using your points, Card or a combination of both."
+        },
+        {
+            "program": "Fixed Points Travel Program",
+            "conversion_rate": "40,000 points Canada/US long haul flight and more\u2026",
+            "description": "You can use your Membership Rewards\u00ae points to book flights within Canada or to anywhere in the world for a fixed number of points. The number of points will stay the same regardless of flight availability, time of year or popularity of the flight."
+        },
+        {
+            "program": "Air Canada\u00ae* Pay with Points",
+            "conversion_rate": "1,000 points = $10",
+            "description": "Cover your fight with points directly at checkout on AirCanada.com using points for the total or part of your order. The minimum redemption requirement is 10 points."
+        },
+        {
+            "program": "Transfer your points",
+            "conversion_rate": "",
+            "description": "Enjoy more ways to travel the world. You can transfer your Membership Rewards points to a third-party points program, like your favourite partner airline and hotel loyalty programs."
+        },
+        {
+            "program": "Amazon Shop with Points",
+            "conversion_rate": "1,000 points = $7",
+            "description": "Save on millions of items when you use your points to pay for the total or part of your order at Amazon.ca."
+        },
+        {
+            "program": "Pay with Points at checkout with PayPal",
+            "conversion_rate": "1,000 points = $7",
+            "description": "Use your points at thousands of online stores when you check out with PayPal. Just link your Membership Rewards account to your PayPal account."
+        },
+        {
+            "program": "Merchandise",
+            "conversion_rate": "",
+            "description": "You can redeem for a wide range of leading products."
+        },
+        {
+            "program": "Use points for purchases",
+            "conversion_rate": "1,000 points = $10",
+            "description": "You can redeem your points for statement credits against any eligible purchases charged to your Card. The minimum redemption requirement is 1,000 points."
+        },
+        {
+            "program": "Gift cards",
+            "conversion_rate": "",
+            "description": "You can redeem for gift cards from your favourite brands, including American Express Prepaid Cards."
+        },
+        {
+            "program": "Charity",
+            "conversion_rate": "",
+            "description": "You can choose to donate your points to select charities and causes. A minimum of 1,000 Membership Rewards points is required to be redeemed for a $10 charitable donation."
+        }
+    ]
+}
