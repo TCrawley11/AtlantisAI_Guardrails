@@ -11,6 +11,10 @@ from fuzzywuzzy import fuzz
 
 from guardrails import check, connect, observe
 
+"""
+Run from parent folder (amex chatbot) with python -m Code.chatbot_ai
+"""
+
 # Set up for TinyLlama LLM model
 MODEL_NAME = "TinyLlama/TinyLlama-1.1B-Chat-v1.0"
 tinyllama_model = AutoModelForCausalLM.from_pretrained(MODEL_NAME)
